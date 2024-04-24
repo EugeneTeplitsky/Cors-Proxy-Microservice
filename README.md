@@ -25,7 +25,7 @@ This is a simple Python Flask microservice that serves as a CORS (Cross-Origin R
 3. Install the required dependencies:
 
    ```
-   pip install flask flask-cors requests
+   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -71,5 +71,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Flask](https://flask.palletsprojects.com/)
 - [Flask-CORS](https://flask-cors.readthedocs.io/)
 - [Requests](https://docs.python-requests.org/)
-
-Feel free to customize the README.md file based on your specific project details and requirements.
